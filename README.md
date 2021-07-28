@@ -21,3 +21,8 @@ kubectl logs mongo-express-xxxxxx
 
 give a URL to external service in minikube:
 minikube service mongo-express-service
+
+
+
+Start on virtualbox 
+minikube start --no-vtx-check
