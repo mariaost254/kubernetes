@@ -26,3 +26,4 @@ minikube service mongo-express-service
 
 Start on virtualbox 
 minikube start --no-vtx-check
+minikube dashbaord
